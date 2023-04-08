@@ -1,0 +1,5 @@
+src/Application.vala
+src/MainWindow.vala
+data/quickfirenotes.desktop.in.in
+data/quickfirenotes.metainfo.xml.in.in
+data/quickfirenotes.gschema.xml.in

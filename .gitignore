@@ -1,0 +1,7 @@
+/_build
+/build
+/app
+/.flatpak
+/.flatpak-builder
+/subprojects/**/
+/.vscode
